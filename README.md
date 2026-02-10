@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bekforever&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bekforever&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b76117kk48yek7znrhn52c4qxo6o59vvwtgyo09oh83nb&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
@@ -43,8 +38,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Bekforever/count.svg?"  />
-</div>
-
-###
