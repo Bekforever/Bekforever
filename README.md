@@ -5,7 +5,7 @@
 ###
 
 <div align="left">
- # Hi, I'm Bek 👋
+## Hi, I'm Bek 👋
 
 Frontend Developer focused on building clean, scalable, and user-friendly web applications.
 
@@ -53,7 +53,7 @@ Currently learning **Java** and exploring backend development to become a strong
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bekforever\&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bekforever&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
 
 ## 📫 Connect With Me
 
