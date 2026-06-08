@@ -57,8 +57,8 @@ Currently learning **Java** and exploring backend development to become a strong
 
 ## 📫 Connect With Me
 
-* LinkedIn: Add your LinkedIn link
-* Email: Add your email
+* LinkedIn: <a href="https://www.linkedin.com/in/bekforever13/" target="_blank">Bekforever13</a>
+* Email: <a href="aydarbaevb@gmail.com" target="_blank">aydarbaevb@gmail.com</a>
 
 </div>
 
