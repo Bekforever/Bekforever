@@ -5,7 +5,8 @@
 ###
 
 <div align="left">
-## Hi, I'm Bek 👋
+
+  ## Hi, I'm Bek 👋
 
 Frontend Developer focused on building clean, scalable, and user-friendly web applications.
 
