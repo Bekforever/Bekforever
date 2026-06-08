@@ -5,31 +5,61 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-</div>
+ # Hi, I'm Bek 👋
 
-###
+Frontend Developer focused on building clean, scalable, and user-friendly web applications.
 
-<div align="left">
-  <a href="https://mail.google.com/mail/?view=cm&to=b3kforever@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/bekforever13/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/bekforever" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
+Currently learning **Java** and exploring backend development to become a stronger full-stack engineer.
+
+## 🚀 About Me
+
+* Frontend Developer
+* Learning Java and backend fundamentals
+* Interested in scalable architecture and clean code
+* Building projects and continuously improving problem-solving skills
+
+## 🛠 Tech Stack
+
+### Frontend
+
+* JavaScript (ES6+)
+* TypeScript
+* React
+* Next.js
+* Tailwind CSS
+* shadcn/ui
+* Zustand
+* TanStack Query
+
+### Backend & Learning
+
+* Node.js
+* Express.js
+* Java (Learning)
+
+### Database & Tools
+
+* Drizzle ORM
+* Git & GitHub
+* REST API
+* Vitest
+
+## 📌 Current Focus
+
+* Improving Java fundamentals
+* Learning backend architecture
+* Writing cleaner and more scalable code
+* Strengthening problem-solving and algorithms
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bekforever\&show_icons=true)
+
+## 📫 Connect With Me
+
+* LinkedIn: Add your LinkedIn link
+* Email: Add your email
+
 </div>
 
 ###
